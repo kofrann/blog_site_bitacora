@@ -1,3 +1,15 @@
 body{
-  background-color: aqua;
+  /* background-color: aqua; */
+}
+
+.main{
+  width: 70%;
+  margin: 20PX auto;
+  border: 1px solid blue;
+  padding: 10px 5px 5px 10px;
+  background-color: darksalmon;
+}
+
+h2{
+  margin-top: 0px;
 }
