@@ -11,5 +11,13 @@ body{
 }
 
 h2{
-  margin-top: 0px;
+  margin-top: 20px;
+}
+
+.encabezado{
+  background-color: darkturquoise;
+  padding: 20px;
+  margin-bottom: 20px;
+  font-size: 30px;
+ box-shadow: 0px 10px 10px gray;
 }
