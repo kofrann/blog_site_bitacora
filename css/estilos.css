@@ -4,7 +4,7 @@ body{
 }
 
 .main{
-  width: 70%;
+  width: 60%;
   margin: 20PX auto;
   border: 1px solid blue;
   padding: 10px 5px 5px 10px;
@@ -13,12 +13,19 @@ body{
 
 h2{
   margin-top: 20px;
+  color: darkmagenta;
 }
 
 .encabezado{
-  background-color: darkturquoise;
+  background-color: darkred;
+  color: burlywood;
   padding: 20px;
   margin-bottom: 20px;
   font-size: 30px;
  box-shadow: 0px 10px 10px gray;
+}
+
+h3{
+  color: crimson;
+
 }
