@@ -38,13 +38,21 @@ img{
   width: inherit;
   height: inherit;
 }
+
+nav{
+
+  list-style: none;
+}
+
 ul{
   
   display: flex;
   list-style: none;
 }
+
 a{
   padding-right: 20px;
+  
 }
 
 h3{
